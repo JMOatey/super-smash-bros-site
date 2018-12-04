@@ -1,0 +1,33 @@
+.paragraph-container{
+	padding: 0px;
+}
+
+img{
+	width: 200px;
+}
+
+.fighter-image{
+	background-color: #333;
+	padding: 0px;
+}
+
+.pro-con, .fighter-paragraph{
+	padding: 20px;	
+}
+
+p{
+	text-align: left;
+}
+
+table{
+	border-collapse: collapse;
+}
+
+tr,td{
+	border: 1px solid darkgrey;	
+}
+
+h1{
+	font-family: 'Black Ops One', cursive;
+	margin: 0px;
+}
